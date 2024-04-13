@@ -1,12 +1,12 @@
 Hi, i'm Djahid.
 A second year CS major student.
-My main goal is to become a software engineer or a data scientist.
+My goal is to become a data scientist / developer.
 
 Languages:
   C, python, javascript, html, css;
 
 Other:
-  git, pipenv, bash;
+  git, bash;
 
 contact me:
   instagram: Kaizen.code
